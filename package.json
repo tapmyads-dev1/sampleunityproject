@@ -1,7 +1,7 @@
 {
     "name": "com.tapmyads.sampleunityproject",
     "version": "1.0.0",
-    "displayName": "Tapmyads Toolbox",
+    "displayName": "sampleunityproject",
     "description": "",
     "unity": "2021.1",
     "dependencies": {},
