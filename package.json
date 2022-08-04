@@ -1,15 +1,18 @@
 {
-    "name": "com.tapmyads.sampleunityproject",
-    "version": "1.0.0",
-    "displayName": "sampleunityproject",
-    "description": "",
-    "unity": "2021.1",
-    "dependencies": {},
-    "keywords": [ "tools", "extension", "tapmyads" ],
-    "author": {
-        "name": "Tapmyads",
-        "email": "tamyads@mai.com",
-        "url": "www.tapmyads.com"
-    }
-
+        "name": "com.tapmyads.sampleunityproject",
+        "version": "1.0.0",
+        "displayName": "sampleunityproject",
+        "description": "",
+        "unity": "2021.1",
+        "dependencies": {},
+        "keywords": [
+                "tools",
+                "extension",
+                "tapmyads"
+        ],
+        "author": {
+                "name": "Tapmyads",
+                "email": "Tamyads@mai.com",
+                "url": "www.tapmyads.com"
+        }
 }
