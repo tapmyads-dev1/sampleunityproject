@@ -1,0 +1,15 @@
+{
+    "name": "com.tapmyads.sampleunityproject",
+    "version": "1.0.0",
+    "displayName": "Tapmyads Toolbox",
+    "description": "",
+    "unity": "2021.1",
+    "dependencies": {},
+    "keywords": [ "tools", "extension", "tapmyads" ],
+    "author": {
+        "name": "tapmyads",
+        "email": "tamyads@mai.com",
+        "url": "www.tapmyads.com"
+    }
+
+}
